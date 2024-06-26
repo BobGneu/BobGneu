@@ -1,10 +1,10 @@
 👋 Hi, I’m @BobGneu
 
-I’m interested in solving technical riddles across many domains. I’m currently learning about [Rust](https://www.rust-lang.org/), [CPP](https://cpp-lang.net/), & [Typescript](https://www.typescriptlang.org/) 
+I’m interested in solving technical riddles across many domains. I’m currently learning about [Rust](https://www.rust-lang.org/), [CPP](https://cpp-lang.net/), & [Typescript](https://www.typescriptlang.org/). 
 
-I’m looking to collaborate on games, robotics, misc. developer tooling. 
+I’m looking to collaborate on games, robotics, testing, misc. developer tooling. 
 
-I'm best reached through [email](bob.chatman+github@gmail.com) or on Discord.
+I'm best reached through [email](mailto:bob.chatman+github@gmail.com?subject=[GitHub]%20Good%20day%20from%20your%20profile!y%20from) or on Discord.
 
 I have worked on 
 - Games & Game Engines
